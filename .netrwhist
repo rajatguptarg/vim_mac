@@ -1,0 +1,6 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =4
+let g:netrw_dirhist_1='/Users/rajatg/ThoughtWorks'
+let g:netrw_dirhist_2='/Users/rajatg/pyProjects/cms/mysite'
+let g:netrw_dirhist_3='/Users/rajatg/pyProjects/ds/User_Portal/my_app'
+let g:netrw_dirhist_4='/Users/rajatg/Coursera/Machine Learning/machine-learning-ex8'
